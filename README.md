@@ -23,7 +23,7 @@ Mostly basic 2D gamedev in Godot (using GDScript)
 
 🤔 Looking for help with going more in depth into non-gamedev related languages
 
-📫 You can contact me through Twitter if you wish (or even by submitting a pr or issue on my PastelDeFeira/PastelDeFeira repo lmao)
+📫 You can contact me through Twitter if you wish (or even by submitting a pr or issue on my [/PastelDeFeira](github.com/PastelDeFeira/PastelDeFeira) repo lmao)
 
 ⚡️ Fun fact: I also hold the speedrun world record for Donkey Konga
 
