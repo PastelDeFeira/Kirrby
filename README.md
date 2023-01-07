@@ -10,6 +10,7 @@ I'm a begginer gamedev with experience mostly in Godot. I've published my game [
 
 ## 🛠 Skills/Experience
 Mostly basic 2D gamedev in Godot (using GDScript)
+Published a game on steam
 
 
 
