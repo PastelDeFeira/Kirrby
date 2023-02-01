@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a begginer gamedev with experience mostly in Godot. I've published my game [89](https://store.steampowered.com/app/2134360/89/) on Ateam and am currently working on updating it! I started my gamedev journey around 1 year ago, and still have a lot to learn...
+I'm a begginer gamedev with experience mostly in Godot. I've published my game [89](https://store.steampowered.com/app/2134360/89/) on Steam and am currently working on updating it! I started my gamedev journey around 1 year ago, and still have a lot to learn...
 
 
 
