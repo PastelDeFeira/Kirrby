@@ -28,7 +28,3 @@ Published a game on steam
 📫 You can contact me through Twitter if you wish (or even by submitting a pr or issue on my /PastelDeFeira repo lmao)
 
 ⚡️ Fun fact: I also hold the speedrun world record for Donkey Konga
-
-
-## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pasteldefeira6)
